@@ -5,4 +5,7 @@ this is the second time that I try to make a change.
 
 
 
-I am making the conflict on master...
+I am changing this doc on branch b1 !
+
+
+I am making a conflict on branch b1....
